@@ -1,0 +1,33 @@
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\bin\Debug\vmp_figure.exe.config
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\bin\Debug\vmp_figure.exe
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\bin\Debug\vmp_figure.pdb
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.AssemblyReference.cache
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.Form1.resources
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.Properties.Resources.resources
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.GenerateResource.cache
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.CoreCompileInputs.cache
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.exe
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.pdb
+C:\Users\HotWai\source\repos\vmp_figure\vmp_figure\obj\Debug\vmp_figure.DrawShapes.resources
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\bin\Debug\vmp_figure.exe.config
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\bin\Debug\vmp_figure.exe
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\bin\Debug\vmp_figure.pdb
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.AssemblyReference.cache
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.DrawShapes.resources
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.Form1.resources
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.Properties.Resources.resources
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.GenerateResource.cache
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.CoreCompileInputs.cache
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.exe
+C:\Users\alla_\Downloads\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.pdb
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.AssemblyReference.cache
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.DrawShapes.resources
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.Form1.resources
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.GenerateResource.cache
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.csproj.CoreCompileInputs.cache
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\bin\Debug\vmp_figure.exe.config
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\bin\Debug\vmp_figure.exe
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\bin\Debug\vmp_figure.pdb
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.Properties.Resources.resources
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.exe
+C:\Users\alla_\Desktop\учеба\5 семестр\ВМП\vmp_figure\vmp_figure\vmp_figure\obj\Debug\vmp_figure.pdb
